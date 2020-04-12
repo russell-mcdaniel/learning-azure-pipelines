@@ -1,6 +1,6 @@
-# Learning Pipelines
+# Learning Azure Pipelines
 
-A learning project for Azure DevOps Pipelines.
+A learning project for Azure Pipelines.
 
 ## Phase I
 
